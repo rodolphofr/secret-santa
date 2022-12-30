@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagina de configuracao deve ser renderizada 1`] = `
+<div>
+  <h2>
+    Vamos começar!
+  </h2>
+  <form>
+    <div
+      class="wrapperFields"
+    >
+      <div
+        class="group"
+      >
+        <input
+          autocomplete="off"
+          data-testid="participant"
+          id="participant"
+          name="participant"
+          placeholder="Insira os nomes dos participantes"
+          type="text"
+          value=""
+        />
+        <button
+          data-testid="addButton"
+          disabled=""
+          type="submit"
+        >
+          Adicionar
+        </button>
+      </div>
+    </div>
+  </form>
+  <ul />
+  <footer>
+    <button
+      class="actionButton"
+      disabled=""
+    >
+      Iniciar bricadeira!
+    </button>
+    <img
+      alt="imagem de sacolas"
+      src="/images/bags.png"
+    />
+  </footer>
+</div>
+`;
