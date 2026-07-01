@@ -103,6 +103,22 @@ http://localhost:3000
 
 ---
 
+## 🧪 How to run the tests
+
+To run the tests in interactive mode:
+
+```bash
+npm test
+```
+
+To run the tests with coverage report:
+
+```bash
+npm test -- --coverage
+```
+
+---
+
 ## 🧭 Application flow
 
 1. The user accesses the home page.
